@@ -7,6 +7,7 @@ import { Product } from '../product.model';
 
 
 const EXAMPLE_DATA: Product[] = [
+  {id: 1, name: 'Hydrogen', price: 19.98}
 ];
 
 /**
